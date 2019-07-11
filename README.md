@@ -8,7 +8,7 @@ If fail and click an image that has been clicked already your score and game is 
 
 After each click event the images will randomly reshuffle and display to the user -- adding a slight bit of difficulty.
 
-#Technologies
+# Technologies
 
 - React.js
 - JavaScript
