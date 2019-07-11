@@ -1,4 +1,4 @@
-#React Memory Game
+## React Memory Game
 In this app users will click on images and gain points for each image clicked.
 The goal is to click every image once to obtain the high score of 12 without clicking on an image that has been clicked already.
 
